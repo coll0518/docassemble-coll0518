@@ -1,0 +1,13 @@
+---
+# My first Docassemble program
+Mandatory: True
+question: Hello World!
+subquestion: |
+  Hello **${ GCLName }**,
+  
+  Welcome to Docassemble!
+---
+question: Name 
+fields:
+  - What is your name?: GCLName
+---

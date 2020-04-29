@@ -1,0 +1,38 @@
+---
+Mandatory: True 
+question: Welcome!
+subquestion: | 
+  Welcome to the Equal Opportunity Commission Disability Report Alert 
+  
+  
+  **DISCLAIMER: THIS SERVICE IS NOT TO BE TAKEN AS FORMAL LEGAL ADVICE** 
+  
+  
+  This service will assist you in the following areas:
+
+   - 	Submit an disability access alert report directly to venues.
+
+   - 	Allow you to download a PDF copy of the report, along with the relevant law       that applies to your situation. 
+
+   -	Provide relevant legal information regarding disabilities, accessibility and       your rights as per the current law in South Australia. 
+
+   -	Provide venues with relevant legal information highlighting the obligations       as per disability access laws under The Equal Opportunity Act 1984 (SA).
+
+  The alert report that you may submit regarding an accessibility issue it not the   same as a formal complaint submitted to the Equal Opportunity Commission. 
+
+  If that is the avenue that you seek, this service can provide you with the   necessary link to make a formal complaint. 
+
+  Instead, this program has been designed so that you may easily and anonymously    report an accessibility issue directly to the venue itself. As stated above, if you wish to also make a formal complaint to the Equal Opportunity Commission the option is there and the link will be provided to you. 
+  
+buttons: 
+  - I wish to continue: continue 
+  - Exit: https://eoc.sa.gov.au
+---
+Mandatory: True
+question: |
+subquestion: 
+  Why are you accessing this service? 
+dropdown:
+  - I am a member of the public/acting on behalf of a member of public.
+  - I am a venue owner/agency/employee.
+--- 
